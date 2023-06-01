@@ -25,6 +25,3 @@
   <img src="https://komarev.comghpvc/?username=MaxMartinsen&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="badges"" align="center">
-  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" alt=""/>
-</div>
