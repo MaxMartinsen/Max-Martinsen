@@ -26,7 +26,7 @@
 
 ### :woman_technologist: About Me :
 I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
-- :dart: I am a passionate Front-End Developer and student, specializing in the intersection of visual design, programming, web design, and UX design.
+- :dart: I am a passionate Front-End Developer and student, specializing in the intersection of visual design, programming, web design, and UX/UI design.
 
 - :mechanical_arm: Embarking on a journey of exploring the realm of technical content writing.
 
