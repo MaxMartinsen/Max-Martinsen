@@ -22,7 +22,7 @@
 </div>
 
 <div id="badges"" align="center">
-  <img src="https://maxmartinsen.pw/ghpvc/?username=MaxMartinsen&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.comghpvc/?username=MaxMartinsen&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="badges"" align="center">
