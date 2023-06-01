@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/max-martinsen-87ba80241/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.maxmartinsen.pw">
       <img src="https://img.shields.io/badge/WWW-blue?style=for-the-badge&logo=www&logoColor=white" alt="WWW Badge"/>
     </a>
     <a href="your-twitter-URL">
