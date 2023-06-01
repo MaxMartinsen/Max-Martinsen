@@ -32,7 +32,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 - :zap: During my leisure time, I engage in problem-solving on GeeksforGeeks and immerse myself in reading informative tech articles.
 
-- :mailbox_with_no_mail: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MaxMartinsen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-martinsen-87ba80241/) [![Mail Badge](https://img.shields.io/badge/-Max.Martinsen@hotmail.com-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:max.martinsen@hotmail.com)
+- :mailbox_with_no_mail: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MaxMartinsen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-martinsen-87ba80241/) [![Mail Badge](https://img.shields.io/badge/-max.martinsen@hotmail.com-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:max.martinsen@hotmail.com)
 
 ---
 
