@@ -47,20 +47,29 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :chart_with_upwards_trend: My Statistics :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaxMartinsen&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaxMartinsen&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMartinsen&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Welcome to my front-end development playground! This repository showcases my journey as a front-end developer, where I experiment with various technologies, frameworks, and design patterns. Like HTML, CSS, and JavaScript, you'll find a collection of projects that highlight my skills and creativity in crafting intuitive and visually appealing user interfaces.
+
+With a strong focus on responsive design, accessibility, and performance optimization, each project in this repository demonstrates my ability to create dynamic and interactive web applications. Whether it's building responsive layouts, implementing smooth animations, or integrating RESTful APIs, I strive to deliver engaging and seamless user experiences.
+
+You can explore individual projects within this repository, each accompanied by detailed documentation and instructions to help you understand the purpose, features, and implementation techniques used. Additionally, I actively maintain and update these projects to ensure they reflect the latest industry standards and best practices.
+
+I believe in the power of collaboration and learning from others, so feel free to contribute, provide feedback, or suggest improvements. Let's connect and build something amazing together!
+
+Browse through the code, dive into the commits, and explore the branches to get a deeper understanding of my development process. Don't forget to check out the 'README.md' file for an overview of the repository structure, project dependencies, and how to get started.
+
+Thank you for visiting my front-end development repository. I hope you find inspiration and useful resources here to enhance your own coding journey.
+
+"Happy coding!"
