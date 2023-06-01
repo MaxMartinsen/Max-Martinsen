@@ -11,27 +11,28 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=MaxMartinsen&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MaxMartinsen&style=flat-square&color=blue" alt="Counter"/>
   <h1>
-    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hei, my name is Max Martinsen!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div id="baner" align="center">
+  <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
+- :dart: I am a passionate Front-End Developer and student, specializing in the intersection of visual design, programming, web design, and UX design.
 
-- :seedling: Exploring Technical Content Writing.
+- :mechanical_arm: Embarking on a journey of exploring the realm of technical content writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: During my leisure time, I engage in problem-solving on GeeksforGeeks and immerse myself in reading informative tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox_with_no_mail: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MaxMartinsen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-martinsen-87ba80241/) [![Mail Badge](https://img.shields.io/badge/-MaxMartinsen-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:max.martinsen@hotmail.com)
 
 ---
 
