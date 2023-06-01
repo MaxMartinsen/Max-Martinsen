@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<div id="badges" align="center">
+<div id="counter" align="center">
   <img src="https://komarev.comghpvc/?username=MaxMartinsen&style=flat-square&color=blue" alt=""/>
 </div>
 
