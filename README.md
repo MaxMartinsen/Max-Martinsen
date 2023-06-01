@@ -7,8 +7,8 @@
     <a href="https://maxmartinsen.pw/">
       <img src="https://img.shields.io/badge/WWW-blue?style=for-the-badge&logo=www&logoColor=white" alt="WWW Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://www.facebook.com/profile.php?id=100010115868020">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MaxMartinsen&style=flat-square&color=blue" alt=""/>
