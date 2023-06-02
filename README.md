@@ -59,7 +59,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Hello! :
 
 Welcome to my front-end development playground! This repository showcases my journey as a front-end developer, where I experiment with various technologies, frameworks, and design patterns. Like HTML, CSS, and JavaScript, you'll find a collection of projects that highlight my skills and creativity in crafting intuitive and visually appealing user interfaces.
 
@@ -74,6 +74,7 @@ Browse through the code, dive into the commits, and explore the branches to get 
 Thank you for visiting my front-end development repository. I hope you find inspiration and useful resources here to enhance your own coding journey.
 
 "Happy coding!"
+### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 
