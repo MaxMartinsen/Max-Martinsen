@@ -77,5 +77,6 @@ Thank you for visiting my front-end development repository. I hope you find insp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [📝 Harnessing the Power of REST API in WordPress 🌐](https://dev.to/maxmartinsen/harnessing-the-power-of-rest-api-in-wordpress-3a1a)
 - [📝 Reset CSS: A Clean Slate for Consistent Web Design 🎨](https://dev.to/maxmartinsen/reset-css-a-clean-slate-for-consistent-web-design-4nea)
 <!-- BLOG-POST-LIST:END -->
