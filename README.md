@@ -25,6 +25,7 @@
 ---
 
 ### :woman_technologist: About Me :
+
 I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 - :dart: I am a passionate Front-End Developer and student, specializing in the intersection of visual design, programming, web design, and UX/UI design.
 
@@ -37,6 +38,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -59,7 +61,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ---
 
-### :writing_hand: Hello! :
+### :page_with_curl:: Description :
 
 Welcome to my front-end development playground! This repository showcases my journey as a front-end developer, where I experiment with various technologies, frameworks, and design patterns. Like HTML, CSS, and JavaScript, you'll find a collection of projects that highlight my skills and creativity in crafting intuitive and visually appealing user interfaces.
 
@@ -73,7 +75,10 @@ Browse through the code, dive into the commits, and explore the branches to get 
 
 Thank you for visiting my front-end development repository. I hope you find inspiration and useful resources here to enhance your own coding journey.
 
-"Happy coding!"
+:small_airplane: Happy coding ! :tada:
+
+---
+
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
