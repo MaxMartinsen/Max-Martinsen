@@ -61,7 +61,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ---
 
-### :page_with_curl:: Description :
+### :page_with_curl: Description :
 
 Welcome to my front-end development playground! This repository showcases my journey as a front-end developer, where I experiment with various technologies, frameworks, and design patterns. Like HTML, CSS, and JavaScript, you'll find a collection of projects that highlight my skills and creativity in crafting intuitive and visually appealing user interfaces.
 
