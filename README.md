@@ -51,6 +51,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" title="Stackoverflow" alt="Stackoverflow" width="40" height="40"/>&nbsp;       
 </div>
 
 ---
@@ -77,7 +78,7 @@ Browse through the code, dive into the commits, and explore the branches to get 
 
 Thank you for visiting my front-end development repository. I hope you find inspiration and useful resources here to enhance your own coding journey.
 
-:small_airplane: Happy coding ! :tada:
+:small_airplane: Happy coding! :tada:
 
 ---
 
